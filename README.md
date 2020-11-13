@@ -2,7 +2,11 @@
 
 B specification of a very simple version of the old Spaceship & Asteroids arcade game, using the B tools: Atelier B & ProB.
 
-Features a graphical view, which uses an animation function.
+Uses the following machines:
+* [`Space`](reasoning_cw/reasoning_cw/Space.mch)
+* [`SpaceShip`](reasoning_cw/reasoning_cw/SpaceShip.mch)
+
+Features a graphical view, which uses an animation function. Images used by the animation function are in [this](reasoning_cw/reasoning_cw/images) directory.
 
 ![Graphical view](./graphical-view.png)
 
