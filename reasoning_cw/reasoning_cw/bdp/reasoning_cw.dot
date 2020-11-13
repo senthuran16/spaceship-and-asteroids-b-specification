@@ -1,0 +1,6 @@
+digraph {
+Space [ label=" Space " shape= box ]
+SpaceShip [ label=" SpaceShip " shape= box ]
+
+"SpaceShip" -> "Space" [style= dotted ]
+}
