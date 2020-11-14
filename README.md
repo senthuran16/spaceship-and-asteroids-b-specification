@@ -11,3 +11,5 @@ Features a graphical view, which uses an animation function. Images used by the 
 ![Graphical view](./graphical-view.png)
 
 Implemented for the coursework of the module: _Reasoning About Programs (6SENG001W)_ in 2018, at Informatics Institute of Technology (IIT), Sri Lanka, in collaboration with University of Westminster.
+
+Author: Senthuran Ambalavanar ([github.com/senthuran16](https://github.com/senthuran16))
